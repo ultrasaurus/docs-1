@@ -12,7 +12,7 @@ produced.
     - with the ability to select a specific subset of events from a particular
     producer
 
-The above concerns are consistent with the [design goals](https://github.com/cloudevents/spec/blob/master/spec.md#design-goals) of CloudEvents, a common specification for cross-service interoperability being developed by the CNCF Serverless WG.
+The above concerns are consistent with the [design goals](https://github.com/cloudevents/spec/blob/master/primer.md#design-goals) of CloudEvents, a common specification for cross-service interoperability being developed by the CNCF Serverless WG.
 
 ## System design notes
 
